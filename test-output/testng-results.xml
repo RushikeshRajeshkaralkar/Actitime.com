@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69937" started-at="2020-04-17T16:25:13Z" finished-at="2020-04-17T16:26:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69937" started-at="2020-04-17T16:25:13Z" finished-at="2020-04-17T16:26:23Z">
+      <class name="com.Greenkart.qa.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Greenkart.qa.tests.HomePageTest@48140564]" name="setUp" is-config="true" duration-ms="17975" started-at="2020-04-17T21:55:13Z" finished-at="2020-04-17T21:55:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="add_Multipli_Vegitable_TO_Cart()[pri:0, instance:com.Greenkart.qa.tests.HomePageTest@48140564]" name="add_Multipli_Vegitable_TO_Cart" duration-ms="11414" started-at="2020-04-17T21:55:31Z" finished-at="2020-04-17T21:55:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_Multipli_Vegitable_TO_Cart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Greenkart.qa.tests.HomePageTest@48140564]" name="tearDown" is-config="true" duration-ms="1038" started-at="2020-04-17T21:55:42Z" finished-at="2020-04-17T21:55:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Greenkart.qa.tests.HomePageTest@48140564]" name="setUp" is-config="true" duration-ms="6479" started-at="2020-04-17T21:55:43Z" finished-at="2020-04-17T21:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addToCartProduct()[pri:1, instance:com.Greenkart.qa.tests.HomePageTest@48140564]" name="addToCartProduct" duration-ms="10690" started-at="2020-04-17T21:55:50Z" finished-at="2020-04-17T21:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartProduct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Greenkart.qa.tests.HomePageTest@48140564]" name="tearDown" is-config="true" duration-ms="1647" started-at="2020-04-17T21:56:00Z" finished-at="2020-04-17T21:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Greenkart.qa.tests.HomePageTest@48140564]" name="setUp" is-config="true" duration-ms="6623" started-at="2020-04-17T21:56:02Z" finished-at="2020-04-17T21:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="search_vegitable()[pri:2, instance:com.Greenkart.qa.tests.HomePageTest@48140564]" name="search_vegitable" duration-ms="5455" started-at="2020-04-17T21:56:09Z" finished-at="2020-04-17T21:56:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_vegitable -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Greenkart.qa.tests.HomePageTest@48140564]" name="tearDown" is-config="true" duration-ms="1107" started-at="2020-04-17T21:56:14Z" finished-at="2020-04-17T21:56:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Greenkart.qa.tests.HomePageTest@48140564]" name="setUp" is-config="true" duration-ms="6429" started-at="2020-04-17T21:56:15Z" finished-at="2020-04-17T21:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logoValidate()[pri:3, instance:com.Greenkart.qa.tests.HomePageTest@48140564]" name="logoValidate" duration-ms="86" started-at="2020-04-17T21:56:22Z" finished-at="2020-04-17T21:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoValidate -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Greenkart.qa.tests.HomePageTest@48140564]" name="tearDown" is-config="true" duration-ms="955" started-at="2020-04-17T21:56:22Z" finished-at="2020-04-17T21:56:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Greenkart.qa.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
